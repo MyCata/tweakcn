@@ -32,5 +32,5 @@ export async function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/editor/theme/:themeId", "/dashboard", "/settings/:path*", "/success"],
+  matcher: ["/dashboard", "/settings/:path*", "/success"],
 };
