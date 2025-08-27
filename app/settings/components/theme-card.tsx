@@ -72,7 +72,7 @@ export function ThemeCard({ theme, className }: ThemeCardProps) {
   };
 
   const handleShare = () => {
-    const url = `https://tweakcn.com/themes/${theme.id}`;
+    const url = `https://tweakcn.devosurf.dev/themes/${theme.id}`;
     navigator.clipboard.writeText(url);
     toast({
       title: "Theme URL copied to clipboard!",

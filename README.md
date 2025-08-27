@@ -19,7 +19,7 @@
 
 <br />
 
-**[tweakcn](https://tweakcn.com)** is a powerful Visual Theme Editor for tailwind CSS & shadcn/ui components. It comes with Beautiful theme presets to get started, while aiming to offer advanced customisation for each aspect of your UI
+**[tweakcn](https://tweakcn.devosurf.dev)** is a powerful Visual Theme Editor for tailwind CSS & shadcn/ui components. It comes with Beautiful theme presets to get started, while aiming to offer advanced customisation for each aspect of your UI
 
 ![tweakcn.com](public/og-image.v050725.png)
 
@@ -29,11 +29,11 @@ Websites made with shadcn/ui famously look the same. tweakcn is a tool that help
 
 ## Current Features
 
-You can find the full feature list here: https://tweakcn.com/#features
+You can find the full feature list here: https://tweakcn.devosurf.dev/#features
 
 ## Roadmap
 
-You can find the updated roadmap here: https://tweakcn.com/#roadmap
+You can find the updated roadmap here: https://tweakcn.devosurf.dev/#roadmap
 
 ## Run Locally
 

@@ -22,7 +22,7 @@ const mcpConfig = {
 			command: "npx",
 			args: ["-y", "shadcn@canary", "registry:mcp"],
 			env: {
-				REGISTRY_URL: "https://tweakcn.com/r/themes/registry.json",
+				REGISTRY_URL: "https://tweakcn.devosurf.dev/r/themes/registry.json",
 			},
 		},
 	},

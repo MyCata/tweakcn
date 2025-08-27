@@ -23,11 +23,11 @@ export const metadata: Metadata = {
 			"Beautiful themes for shadcn/ui — tweakcn | Theme Editor & Generator",
 		description:
 			"Customize theme for shadcn/ui with tweakcn's interactive editor. Supports Tailwind CSS v4, Shadcn UI, and custom styles. Modify properties, preview changes, and get the code in real time.",
-		url: "https://tweakcn.com/",
+		url: "https://tweakcn.devosurf.dev/",
 		siteName: "tweakcn",
 		images: [
 			{
-				url: "https://tweakcn.com/og-image.v050725.png",
+				url: "https://tweakcn.devosurf.dev/og-image.v050725.png",
 				width: 1200,
 				height: 630,
 			},
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
 			"Beautiful themes for shadcn/ui — tweakcn | Theme Editor & Generator",
 		description:
 			"Customize theme for shadcn/ui with tweakcn's interactive editor. Supports Tailwind CSS v4, Shadcn UI, and custom styles. Modify properties, preview changes, and get the code in real time.",
-		images: ["https://tweakcn.com/og-image.v050725.png"],
+		images: ["https://tweakcn.devosurf.dev/og-image.v050725.png"],
 	},
 	robots: "index, follow",
 };
